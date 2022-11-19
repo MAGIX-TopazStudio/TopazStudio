@@ -19,7 +19,7 @@
 
 ## A workflow devoted entirely to creative photo post-processing
 
-## 🔐 [Topaz Studio Download](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1afO0EpkP0Bz3DIOj9gqGupqhye4n34nG)
+## 🔐 [Topaz Studio Download](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1fQivLutDXEQSXHrF7V5lOeiBdOXemUKY)
 ### ● Cutting edge filters
 
 Most image editor tools are the same: your Exposure in one editor is the same Exposure in another. In Studio, we’ve thought about what common adjustments would look like if they were designed today, and updated them to their most modern and useful forms.
