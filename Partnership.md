@@ -1,4 +1,4 @@
-# TOPAZ STUDIO ® 2022 ver.1.14.8 | PRO
+# TOPAZ STUDIO ® 2022 ver.1.14.8 | PRO (The Advertiser Version)
 -------------
 ![alt-текст](https://i.imgur.com/7bvxiWF.jpeg)
 
@@ -7,7 +7,7 @@
 #### Edit your images beautifully with powerful filters and frictionless masking in a fine-tuned non-destructive layer workflow.
 
 # Closed version for promoters
-### 💻 Only for Windows 7/8/8.1/10
+### 💻 Only for Windows 7/8/8.1/10/11
 #### Technical Specifications
 * Graphics - Open GL 3.3 or later compatible
 * Processor - Intel Core i5 or better
